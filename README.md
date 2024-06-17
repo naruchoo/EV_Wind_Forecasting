@@ -36,4 +36,3 @@ Preprocessing.ipynb
 
 
 # その他のコード  
->>>>>>> old-repo/master
