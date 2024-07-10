@@ -29,7 +29,7 @@ Non-seasonal：
 ## ピンボールロスによる予測精度の評価
 ![DQMとCQMの比較_all](https://github.com/naruchoo/EV_Wind_Forecasting/assets/130206918/81696682-752b-4cc6-9a0b-1dfbfe49b856)  
 
-## 0時の気象予報データを用いた予測における予測精度の比較  
+## 0時の気象予報データを用いた際の予測精度の比較  
 ![ピンボールロスの比較(発表時刻：0時)](https://github.com/naruchoo/EV_Wind_Forecasting/assets/130206918/e1dc8d37-b26e-41b2-9890-17fd977d289c)
 
 ------------  
