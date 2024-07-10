@@ -11,7 +11,8 @@
 CQM(Cumulative Quantile Mode)：太陽光と風力発電量を個別に予測し、その予測値を合計するモデル    
 DQM(Direct Quantile Model)：総発電 量を直接予測するモデル   
 
-<img width="859" alt="スクリーンショット 2024-03-10 15 29 53" src="https://github.com/naruchoo/local_competition/assets/130206918/597519de-b4c5-43e7-8066-7544ebe3446e">  
+<img width="805" alt="スクリーンショット 2024-07-10 18 15 17" src="https://github.com/naruchoo/EV_Wind_Forecasting/assets/130206918/a51ae0ca-38b1-4eb5-a0b0-ca0d02f044bd">
+
 
 
 ■ 季節ごとの分類  
