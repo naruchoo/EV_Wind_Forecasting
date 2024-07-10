@@ -1,5 +1,5 @@
 # "HYBRID ENERGY FORECASTING AND TRADING COMPETITION"のFORECASTINGパートのコード  
-![DataPort 43_0](https://github.com/naruchoo/local_competition/assets/130206918/818db57c-a684-4aa0-b9a3-3e364a936019)  
+![286453455-c528e8bf-4fcd-45bf-8752-33393bcaaa39](https://github.com/naruchoo/EV_Wind_Forecasting/assets/130206918/41a3c5b0-22ae-4097-84fb-9c6f583c605d)
 
 
 
